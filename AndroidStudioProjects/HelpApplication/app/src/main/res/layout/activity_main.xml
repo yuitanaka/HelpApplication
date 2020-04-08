@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <EditText
-        android:id="@+id/help2"
+        android:id="@+id/help"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
